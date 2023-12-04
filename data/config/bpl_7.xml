@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plan>
+  <id>7</id>
+  <lang></lang>
+  <title>banner phai tren</title>
+  <form>sequential</form>
+  <width>230</width>
+  <height>158</height>
+  <banners>
+    <banners_item>
+      <id>30</id>
+      <title>tinh hinh covid</title>
+      <clid>1</clid>
+      <file_name>bannernho-capnhat_1.jpg</file_name>
+      <imageforswf>bannernho-capnhat.jpg</imageforswf>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>240</file_width>
+      <file_height>117</file_height>
+      <file_alt>tinh hinh covid</file_alt>
+      <file_click></file_click>
+      <target>_blank</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1636962001</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+  </banners>
+</plan>

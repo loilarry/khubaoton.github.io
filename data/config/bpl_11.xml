@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plan>
+  <id>11</id>
+  <lang></lang>
+  <title>Bảo tàng số</title>
+  <form>sequential</form>
+  <width>275</width>
+  <height>50</height>
+  <banners>
+    <banners_item>
+      <id>150</id>
+      <title>Văn Miếu Trấn Biên</title>
+      <clid>1</clid>
+      <file_name>van-mieu-tran-bien.png</file_name>
+      <imageforswf></imageforswf>
+      <file_ext>png</file_ext>
+      <file_mime>image/png</file_mime>
+      <file_width>1918</file_width>
+      <file_height>1446</file_height>
+      <file_alt>Đồng Nai không chỉ được biết đến là vùng đất có nhiều điểm vui chơi hấp dẫn dành cho các bạn trẻ mà còn có những di tích lịch sử nổi tiếng. Một trong số đó phải kể đến Văn miếu Trấn Biên, nơi bảo tồn, gìn giữ và tôn vinh các giá trị văn hóa – giáo dục cùa</file_alt>
+      <file_click>http://sohoathanglong.com/vmtbdn/</file_click>
+      <target>_blank</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1692626827</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+    <banners_item>
+      <id>151</id>
+      <title>Cuộc đời và sự nghiệp Tôn Đức Thắng</title>
+      <clid>1</clid>
+      <file_name>cuoc-doi-su-nghiep-ton-duc-thang.png</file_name>
+      <imageforswf></imageforswf>
+      <file_ext>png</file_ext>
+      <file_mime>image/png</file_mime>
+      <file_width>2260</file_width>
+      <file_height>1496</file_height>
+      <file_alt>Nhân dịp kỉ niệm 135 năm ngày sinh chủ tịch Tôn Đức Thắng &amp;#40;20&amp;#x002F;8&amp;#x002F;1888 - 20&amp;#x002F;8&amp;#x002F;2023&amp;#41;, Trung tâm Văn hóa - Điện ảnh tỉnh Đồng Nai tổ chức triển lãm thực tế ảo giới thiệu về Cuộc đời, sự nghiệp Chủ tịch Tôn Đức Thắng với 3 p</file_alt>
+      <file_click>http://sohoathanglong.com/trienlamaobacton/</file_click>
+      <target>_blank</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1692626913</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+    <banners_item>
+      <id>152</id>
+      <title>Chùa Tam Chúc</title>
+      <clid>1</clid>
+      <file_name>chua-tam-chuc.png</file_name>
+      <imageforswf></imageforswf>
+      <file_ext>png</file_ext>
+      <file_mime>image/png</file_mime>
+      <file_width>2088</file_width>
+      <file_height>1672</file_height>
+      <file_alt>Khu du lịch tâm linh chùa Tam Chúc thuộc thị trấn Ba Sao, huyện Kim Bảng, Hà Nam là quần thể du lịch văn hóa, tâm linh trọng điểm nối liền 4 tỉnh thành phố&amp;#x3A; Hà Nội - Hà Nam - Hòa Bình - Ninh Bình. Nơi đây không chỉ có cảnh quan thiên nhiên hoang sơ</file_alt>
+      <file_click>http://sohoathanglong.com/dltc/</file_click>
+      <target>_blank</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1692626980</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+  </banners>
+</plan>

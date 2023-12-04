@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plan>
+  <id>1</id>
+  <lang></lang>
+  <title>Quang cao giua trang</title>
+  <form>sequential</form>
+  <width>888</width>
+  <height>100</height>
+  <banners>
+    <banners_item>
+      <id>141</id>
+      <title>tnvn</title>
+      <clid>1</clid>
+      <file_name>banner_final_17082022.png</file_name>
+      <imageforswf></imageforswf>
+      <file_ext>png</file_ext>
+      <file_mime>image/png</file_mime>
+      <file_width>1222</file_width>
+      <file_height>465</file_height>
+      <file_alt></file_alt>
+      <file_click></file_click>
+      <target>_blank</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1665041764</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+  </banners>
+</plan>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plan>
+  <id>9</id>
+  <lang></lang>
+  <title>giữa2</title>
+  <form>sequential</form>
+  <width>768</width>
+  <height>50</height>
+  <banners>
+    <banners_item>
+      <id>142</id>
+      <title>appTNVN</title>
+      <clid>1</clid>
+      <file_name>thanhnien-300x250.png</file_name>
+      <imageforswf></imageforswf>
+      <file_ext>png</file_ext>
+      <file_mime>image/png</file_mime>
+      <file_width>300</file_width>
+      <file_height>250</file_height>
+      <file_alt></file_alt>
+      <file_click></file_click>
+      <target>_blank</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1665041865</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+  </banners>
+</plan>

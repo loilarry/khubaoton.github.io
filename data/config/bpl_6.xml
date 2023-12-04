@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plan>
+  <id>6</id>
+  <lang></lang>
+  <title>Liên kết</title>
+  <form>sequential</form>
+  <width>230</width>
+  <height>94</height>
+  <banners>
+    <banners_item>
+      <id>153</id>
+      <title>Lịch công tác</title>
+      <clid>1</clid>
+      <file_name>lichcongtac.jpg</file_name>
+      <imageforswf></imageforswf>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>268</file_width>
+      <file_height>48</file_height>
+      <file_alt></file_alt>
+      <file_click></file_click>
+      <target>_blank</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1692673362</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+    <banners_item>
+      <id>154</id>
+      <title>Tài liệu tuyên truyền</title>
+      <clid>1</clid>
+      <file_name>1untitled.png</file_name>
+      <imageforswf></imageforswf>
+      <file_ext>png</file_ext>
+      <file_mime>image/png</file_mime>
+      <file_width>448</file_width>
+      <file_height>91</file_height>
+      <file_alt></file_alt>
+      <file_click></file_click>
+      <target>_blank</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1692673391</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+    <banners_item>
+      <id>155</id>
+      <title>Quản lý đoàn viên</title>
+      <clid>1</clid>
+      <file_name>qldoanvien.jpg</file_name>
+      <imageforswf></imageforswf>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>160</file_width>
+      <file_height>122</file_height>
+      <file_alt></file_alt>
+      <file_click></file_click>
+      <target>_blank</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1692673409</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+    <banners_item>
+      <id>156</id>
+      <title>Khoa học công nghệ</title>
+      <clid>1</clid>
+      <file_name>111.jpg</file_name>
+      <imageforswf></imageforswf>
+      <file_ext>png</file_ext>
+      <file_mime>image/png</file_mime>
+      <file_width>314</file_width>
+      <file_height>165</file_height>
+      <file_alt></file_alt>
+      <file_click></file_click>
+      <target>_blank</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1692673422</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+    <banners_item>
+      <id>138</id>
+      <title>Ngân hàng ý tưởng</title>
+      <clid>1</clid>
+      <file_name>ytuongsangtao.jpg</file_name>
+      <imageforswf></imageforswf>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>625</file_width>
+      <file_height>312</file_height>
+      <file_alt></file_alt>
+      <file_click>http://ytuongsangtao.net/</file_click>
+      <target>_blank</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1665025800</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+  </banners>
+</plan>
